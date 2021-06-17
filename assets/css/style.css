@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-  color: #000000;
+  color: #d9dcd6;
 }
 
 .header div {
@@ -29,7 +29,7 @@ body {
   margin-right: 20px;
   float: right;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .header div ul {
@@ -47,7 +47,7 @@ a {
 }
 
 p {
-  font-size: 25px;
+  font-size: 16px;
 }
 
 .hero {
@@ -104,22 +104,19 @@ p {
 .benefit-lead h3 {
   margin-bottom: 10px;
   text-align: center;
-  font-size: 40px;
-  text-decoration: underline;
+
 }
 
 .benefit-brand h3 {
   margin-bottom: 10px;
   text-align: center;
-  font-size: 40px;
-  text-decoration: underline;
+
 }
 
 .benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
-  font-size: 40px;
-  text-decoration: underline;
+
 }
 
 .benefit-lead img {
